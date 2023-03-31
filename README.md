@@ -40,7 +40,7 @@ help - Muestra esta ayuda.
 ```
 
 ## Finalidad educativa
-El proyecto tiene como objetivo proporcionar a los estudiantes de Arquitectura y Tecnología de Sistemas Web y Multimedia y a los alumnos de ciclos formativos de desarrollo de aplicaciones web en el centro educativo [***Gimbernat***](http://eug.es/), una herramienta práctica para aprender sobre el desarrollo de Chatbots utilizando tecnologías como OpenAI y Telegram API. A través de este proyecto, los estudiantes podrán familiarizarse con los conceptos y técnicas necesarios para crear Chatbots y explorar su potencial en el ámbito de la comunicación y el servicio al cliente.
+El proyecto tiene como objetivo proporcionar a los estudiantes de Arquitectura y Tecnología de Sistemas Web y Multimedia y a los alumnos de ciclos formativos de desarrollo de aplicaciones web en el centro educativo [***Gimbernat***](https://www.eug.es/), una herramienta práctica para aprender sobre el desarrollo de Chatbots utilizando tecnologías como OpenAI y Telegram API. A través de este proyecto, los estudiantes podrán familiarizarse con los conceptos y técnicas necesarios para crear Chatbots y explorar su potencial en el ámbito de la comunicación y el servicio al cliente.
 
 En primer lugar, el proyecto permite a los estudiantes aprender sobre la **creación y el desarrollo de un Chatbot**, lo que les brinda una valiosa experiencia práctica en el desarrollo de software conversacional. Además, al utilizar tecnologías como OpenAI y Telegram API, los estudiantes tienen la oportunidad de trabajar con **herramientas avanzadas y actuales en el desarrollo de aplicaciones** de chat.
 
