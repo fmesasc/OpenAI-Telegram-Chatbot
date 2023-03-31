@@ -10,7 +10,7 @@ También define funciones para **enviar mensajes a través de la API de Telegram
 Por último, el código define la función chatGPT3Turbo, que utiliza la **API de OpenAI** para generar una respuesta al mensaje enviado al bot, basada en las conversaciones previas almacenadas en el archivo JSON correspondiente al chat.
 
 ## Instrucciones de uso
-Aquí te explicamos cómo usar el chatbot desarrollado con OpenAI y Telegram API:
+Aquí te explicamos cómo usar el chatbot desarrollado con [OpenAI](https://platform.openai.com/docs/api-reference/chat) y [Telegram](https://core.telegram.org/bots/api) API:
 
 1. Primero, clona el repositorio en tu servidor (asegúrate de tener HTTPS activado).
 2. A continuación, crea un nuevo bot de Telegram siguiendo las [instrucciones oficiales](https://core.telegram.org/bots#how-do-i-create-a-bot) mediante [@botfather](https://t.me/botfather) y guarda el token que se te proporcionará.
